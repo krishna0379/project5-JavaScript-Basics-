@@ -1,3 +1,6 @@
+/**
+ * This method also works as Overloaded method.
+ */
 function addition(p1,p2){
     return p1+p2;
 }
